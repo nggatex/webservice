@@ -1,0 +1,426 @@
+{
+	"MODEM": [
+	{
+		"IDProduk":"A001",
+		"Kategori":"Modem",
+		"NamaProduk":"B310",
+		"Deskripsi":"4G CAT4",
+		"BERAT":"1KG",
+		"HARGA":"600000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+  
+	{
+		"IDProduk":"A002",
+		"Kategori":"Modem",
+		"NamaProduk":"B311",
+		"Deskripsi":"4G CAT4",
+		"BERAT":"1KG",
+		"HARGA":"550000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	{
+		"IDProduk":"A003",
+		"Kategori":"Modem",
+		"NamaProduk":"B312",
+		"Deskripsi":"4G CAT4",
+		"BERAT":"1KG",
+		"HARGA":"500000",
+		"Stok":"5",
+		"Atribut": [
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	{
+		"IDProduk":"A004",
+		"Kategori":"Modem",
+		"NamaProduk":"B315",
+		"Deskripsi":"4G CAT4",
+		"BERAT":"1KG",
+		"HARGA":"800000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	{
+		"IDProduk":"A005",
+		"Kategori":"Modem",
+		"NamaProduk":"ORBIT PRO",
+		"Deskripsi":"4G CAT6",
+		"BERAT":"1KG",
+		"HARGA":"1100000",
+		"Stok":"2",
+		"Atribut": [
+		{
+			"Merk":"HKM",
+			"Tipe":"LteCat6",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"HKM",
+			"Tipe":"LteCat6",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	{
+		"IDProduk":"A006",
+		"Kategori":"Modem",
+		"NamaProduk":"ORBIT PRO 2",
+		"Deskripsi":"4G CAT6",
+		"BERAT":"1KG",
+		"HARGA":"1200000",
+		"Stok":"2",
+		"Atribut": [
+		{
+			"Merk":"ZTE",
+			"Tipe":"LteCat6",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"ZTE",
+			"Tipe":"LteCat6",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	{
+		"IDProduk":"A007",
+		"Kategori":"Modem",
+		"NamaProduk":"E3372",
+		"Deskripsi":"4G CAT4",
+		"BERAT":"1KG",
+		"HARGA":"450000",
+		"Stok":"2",
+		"Atribut": [
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A008",
+		"Kategori":"Modem",
+		"NamaProduk":"E5577",
+		"Deskripsi":"4G CAT4",
+		"BERAT":"1KG",
+		"HARGA":"300000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat4",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A009",
+		"Kategori":"Modem",
+		"NamaProduk":"ORBIT STAR LITE",
+		"Deskripsi":"4G CAT4",
+		"BERAT":"1KG",
+		"HARGA":"400000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"HKM",
+			"Tipe":"LteCat4",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"HKM",
+			"Tipe":"LteCat4",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A010",
+		"Kategori":"Modem",
+		"NamaProduk":"ORBIT MAX",
+		"Deskripsi":"4G CAT19",
+		"BERAT":"1KG",
+		"HARGA":"3000000",
+		"Stok":"2",
+		"Atribut": [
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat19",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Huawei",
+			"Tipe":"LteCat19",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A011",
+		"Kategori":"ROUTER",
+		"NamaProduk":"N301",
+		"Deskripsi":"2,4GHZ",
+		"BERAT":"1KG",
+		"HARGA":"150000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+		{
+		"IDProduk":"A012",
+		"Kategori":"ROUTER",
+		"NamaProduk":"F3",
+		"Deskripsi":"2,4GHZ",
+		"BERAT":"1KG",
+		"HARGA":"180000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A013",
+		"Kategori":"ROUTER",
+		"NamaProduk":"F6",
+		"Deskripsi":"2,4GHZ",
+		"BERAT":"1KG",
+		"HARGA":"200000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A014",
+		"Kategori":"ROUTER",
+		"NamaProduk":"N300",
+		"Deskripsi":"2,4GHZ",
+		"BERAT":"1KG",
+		"HARGA":"185000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"TOTOLINK",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"TOTOLINK",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A015",
+		"Kategori":"ROUTER",
+		"NamaProduk":"N200",
+		"Deskripsi":"2,4GHZ",
+		"BERAT":"1KG",
+		"HARGA":"150000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"TOTOLINK",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"TOTOLINK",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A016",
+		"Kategori":"ROUTER",
+		"NamaProduk":"TENDA 01",
+		"Deskripsi":"2,4GHZ",
+		"BERAT":"1KG",
+		"HARGA":"200000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A017",
+		"Kategori":"ROUTER",
+		"NamaProduk":"TENDA 03",
+		"Deskripsi":"2,4GHZ",
+		"BERAT":"1KG",
+		"HARGA":"380000",
+		"Stok":"2",
+		"Atribut": [
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A018",
+		"Kategori":"ROUTER",
+		"NamaProduk":"AC23",
+		"Deskripsi":"2,4GHZ&5GHZ",
+		"BERAT":"1KG",
+		"HARGA":"620000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ&5GHZ",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ&5GHZ",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A019",
+		"Kategori":"ROUTER",
+		"NamaProduk":"R4A",
+		"Deskripsi":"2,4GHZ&5GHZ",
+		"BERAT":"1KG",
+		"HARGA":"400000",
+		"Stok":"2",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"WIFI 2,4GHZ&5GHZ",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"WIFI 2,4GHZ&5GHZ",
+			"Warna":"Putih"
+		}
+	  	]
+	},
+	{
+		"IDProduk":"A020",
+		"Kategori":"ROUTER",
+		"NamaProduk":"AC8",
+		"Deskripsi":"2,4GHZ&5GHZ",
+		"BERAT":"1KG",
+		"HARGA":"420000",
+		"Stok":"2",
+		"Atribut": [
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ&5GHZ",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"TENDA",
+			"Tipe":"WIFI 2,4GHZ&5GHZ",
+			"Warna":"Putih"
+		}
+	  	]
+	}
+	]
+}
+
